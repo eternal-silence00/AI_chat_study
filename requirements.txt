@@ -4,3 +4,11 @@ groq
 python-dotenv
 pydantic 
 redis
+sqlalchemy
+asyncpg
+alembic
+psycopg2-binary
+pydantic-settings
+pgvector
+greenlet
+fastembed
