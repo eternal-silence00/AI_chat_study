@@ -12,3 +12,6 @@ pydantic-settings
 pgvector
 greenlet
 fastembed
+pytest
+pytest-asyncio
+httpx
