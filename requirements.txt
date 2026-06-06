@@ -15,3 +15,5 @@ fastembed
 pytest
 pytest-asyncio
 httpx
+boto3
+python-multipart
